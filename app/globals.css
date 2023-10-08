@@ -1,0 +1,52 @@
+.navbaar{
+  color: white;
+  margin-left: 20px;
+  font-size: 160%;
+}
+.fieldset{
+  margin-top: 5%;
+  margin-right: 35%;
+  border: 3px solid black;
+  margin-left: 35%;
+  background-color: aqua;
+  border-radius: 10%;
+}
+body{
+  font-size: 150%;
+}
+
+/* student */
+.input{
+  font-size: 30px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  background-color: rgb(144, 144, 255);
+  color:beige;
+}
+.form{
+  background-color: rgb(102, 102, 245);
+  color: white;
+  margin-right: 40%;
+  margin-left: 30%;
+  border-radius: 5%;
+  height: 70vh;
+}
+/* cources */
+.value{
+  margin-right: 130px;
+  background-color: aqua;
+  text-align: center;
+}
+.corinput{
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+}
+.courses{
+  background-color: aqua;
+  text-align: center;
+  margin-left: 200px;
+  margin-right:200px ;
+}
